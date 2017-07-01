@@ -17,13 +17,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.evr.emobile</string>
+				<string>com.evr.xiyouji</string>
 				<key>bundle-version</key>
 				<string>3.0.2</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>emobile.ipa</string>
+				<string>xiyouji.ipa</string>
 			</dict>
 		</dict>
 	</array>
